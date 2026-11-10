@@ -3,6 +3,8 @@
  * Roberto Carlos Martins - 0023293
  */
 
+import model.exceptions.DomainException;
+
 public class Calculadora {
 
     private double numero1;
@@ -43,7 +45,7 @@ public class Calculadora {
 
     public double dividir() {
         if (numero2 == 0) {
-            throw new ArithmeticException("Não é possível dividir por zero.");
+            throw new DomainException("Não é possível dividir por zero.");
         }
         return numero1 / numero2;
     }

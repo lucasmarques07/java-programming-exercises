@@ -5,6 +5,7 @@
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
+import model.exceptions.DomainException;
 
 public class Main {
 
@@ -37,16 +38,14 @@ public class Main {
             } else if (opcao == 4) {
                 resultado = calculadora.dividir();
             } else {
-                throw new IllegalArgumentException("Operação inválida. Escolha de 1 a 4.");
+                throw new DomainException("Operação inválida. Escolha de 1 a 4.");
             }
 
             System.out.println("Resultado: " + resultado);
 
         } catch (InputMismatchException e) {
             System.out.println("Erro: digite apenas números nos campos solicitados.");
-        } catch (ArithmeticException e) {
-            System.out.println("Erro: " + e.getMessage());
-        } catch (IllegalArgumentException e) {
+        } catch (DomainException e) {
             System.out.println("Erro: " + e.getMessage());
         } finally {
             sc.close();

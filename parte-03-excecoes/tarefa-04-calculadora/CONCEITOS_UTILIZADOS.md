@@ -2,20 +2,16 @@
 
 ## Programação orientada a objetos e encapsulamento
 
-A classe `Calculadora` possui dois atributos privados do tipo `double`: `numero1` e `numero2`. O construtor recebe esses valores ao criar o objeto. Os métodos *getters* e *setters* permitem consultar e alterar os atributos.
+A classe `Calculadora` possui dois atributos privados do tipo `double`. O construtor recebe os números, e os *getters* e *setters* permitem consultar e alterar seus valores.
 
-## Métodos e operações matemáticas
+## Métodos e condicionais
 
-Os métodos `somar()`, `subtrair()`, `multiplicar()` e `dividir()` utilizam os atributos da classe para realizar as operações e retornam um resultado do tipo `double`.
+Os métodos `somar()`, `subtrair()`, `multiplicar()` e `dividir()` realizam as operações. Na classe `Main`, `Scanner` recebe os valores e uma estrutura `if/else` escolhe a operação.
 
-## Entrada de dados e condicionais
+## Exceção personalizada
 
-A classe `Main` utiliza `Scanner` para receber os números e a operação. A estrutura `if`, `else if` e `else` determina qual método será executado conforme a opção informada.
+`DomainException`, localizada no pacote `model.exceptions`, herda de `RuntimeException` e representa erros de domínio, como divisão por zero e operação inexistente. A instrução `throw` lança essa exceção e o bloco `catch` exibe sua mensagem. `InputMismatchException` trata entradas numéricas inválidas.
 
-## Tratamento de exceções
+## try, catch e finally
 
-O bloco `try` reúne a leitura dos dados e a execução da operação. `InputMismatchException` trata valores digitados em formato incorreto, `ArithmeticException` trata divisão por zero e `IllegalArgumentException` trata uma operação inexistente. A instrução `throw` é utilizada para lançar exceções nessas situações.
-
-## Bloco finally
-
-O bloco `finally` é executado independentemente do resultado da operação. Ele fecha o `Scanner` e exibe uma mensagem de encerramento.
+O `try` contém o processamento sujeito a erros, os blocos `catch` tratam as exceções e o `finally` fecha o `Scanner` e informa o encerramento do programa.
