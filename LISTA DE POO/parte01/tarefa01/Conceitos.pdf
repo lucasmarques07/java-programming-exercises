@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Producer (Lista de POO) /Title (TAREFA 01 - Cadastro de alunos) /Author (Lucas Marques Almeida; Roberto Carlos Martins) >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3530 >>
+stream
+q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
+q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
+BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 01) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 01  /  TIPOS DE DADOS E POO) Tj ET
+BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Cadastro de alunos) Tj ET
+q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
+BT /F2 8.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 621.89 Tm (AUTORES) Tj ET
+BT /F2 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 598.89 Tm (Lucas Marques Almeida  |  0024283) Tj ET
+BT /F1 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 579.89 Tm (Roberto Carlos Martins  |  0023293) Tj ET
+BT /F1 9.2 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 557.89 Tm (Programa\347\343o Orientada a Objetos  \225  Novembro de 2026) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 537.89 m 541.28 537.89 l S Q
+BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 506.89 Tm (CONCEITOS UTILIZADOS) Tj ET
+q 0.9 0.96 0.96 rg 54 467.89 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 474.89 Tm (01) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 474.89 Tm (Tipos de dados) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 440.89 Tm (O programa utiliza os tipos String para nome e curso, int para idade, double para altura e nota final e) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.49 Tm (boolean para indicar se o aluno est\341 matriculado.) Tj ET
+q 0.9 0.96 0.96 rg 54 385.09 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 392.09 Tm (02) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 392.09 Tm (Programa\347\343o orientada a objetos e encapsulamento) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 358.09 Tm (A classe Aluno re\372ne os atributos e os m\351todos relacionados ao aluno. Os atributos s\343o declarados como) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 342.69 Tm (private, e os m\351todos getters e setters permitem consultar e alterar seus valores. O construtor recebe) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 327.29 Tm (os dados no momento da cria\347\343o do objeto.) Tj ET
+q 0.9 0.96 0.96 rg 54 286.89 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 293.89 Tm (03) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 293.89 Tm (M\351todos e condi\347\343o de aprova\347\343o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 259.89 Tm (O m\351todo exibirDados\(\) apresenta as informa\347\365es cadastradas. J\341 verificarAprovacao\(\) retorna um) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 244.49 Tm (valor boolean conforme a condi\347\343o notaFinal >= 6. A classe Main utiliza if/else para mostrar se o aluno) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 229.09 Tm (foi aprovado ou reprovado.) Tj ET
+q 0.9 0.96 0.96 rg 54 188.69 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 195.69 Tm (04) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 195.69 Tm (Entrada e sa\355da de dados) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 161.69 Tm (A classe Main utiliza Scanner para receber as informa\347\365es pelo teclado e System.out.print e) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 146.29 Tm (System.out.println para exibir mensagens no terminal.) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
+BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 01) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (1 / 1) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000409 00000 n 
+0000000551 00000 n 
+0000000703 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info 6 0 R >>
+startxref
+4284
+%%EOF

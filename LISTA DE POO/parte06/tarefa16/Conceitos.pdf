@@ -1,0 +1,134 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Producer (Lista de POO) /Title (TAREFA 16 - Sistema de gerenciamento de pedidos) /Author (Lucas Marques Almeida; Roberto Carlos Martins) >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3571 >>
+stream
+q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
+q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
+BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 16) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 06  /  DESAFIO INTEGRADOR) Tj ET
+BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Sistema de gerenciamento de pedidos) Tj ET
+q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
+BT /F2 8.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 621.89 Tm (AUTORES) Tj ET
+BT /F2 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 598.89 Tm (Lucas Marques Almeida  |  0024283) Tj ET
+BT /F1 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 579.89 Tm (Roberto Carlos Martins  |  0023293) Tj ET
+BT /F1 9.2 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 557.89 Tm (Programa\347\343o Orientada a Objetos  \225  Novembro de 2026) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 537.89 m 541.28 537.89 l S Q
+BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 506.89 Tm (CONCEITOS UTILIZADOS) Tj ET
+q 0.9 0.96 0.96 rg 54 467.89 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 474.89 Tm (01) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 474.89 Tm (Tipos de dados e programa\347\343o orientada a objetos) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 440.89 Tm (As classes Cliente, Produto e Pedido usam atributos dos tipos int, double e String, al\351m de refer\352ncias a) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.49 Tm (outros objetos. Os construtores criam os objetos, e os m\351todos permitem consultar dados, calcular o total) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.09 Tm (e exibir informa\347\365es. O GerenciadorPedidos mant\351m tr\352s listas \(ArrayList\) para clientes, produtos e) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 394.69 Tm (pedidos enquanto o programa est\341 aberto.) Tj ET
+q 0.9 0.96 0.96 rg 54 354.29 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 361.29 Tm (02) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 361.29 Tm (Enum \226 StatusPedido) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 327.29 Tm (O enum StatusPedido define tr\352s valores poss\355veis: PENDENTE, EM_PROCESSAMENTO e) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 311.89 Tm (CONCLUIDO. Todo pedido come\347a como pendente, muda para em processamento quando uma thread \351) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 296.49 Tm (iniciada e fica conclu\355do ap\363s o processamento.) Tj ET
+q 0.9 0.96 0.96 rg 54 256.09 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 263.09 Tm (03) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 263.09 Tm (Exce\347\365es e valida\347\343o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 229.09 Tm (A classe personalizada ValidacaoException herda de RuntimeException, como a exce\347\343o de dom\355nio) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 213.69 Tm (utilizada na Parte III. Ela \351 lan\347ada com throw para impedir cadastros vazios, pre\347os inv\341lidos,) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 198.29 Tm (quantidades inv\341lidas e pedidos com cliente ou produto inexistente. O try/catch da tela tamb\351m trata erros) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 182.89 Tm (de convers\343o com NumberFormatException.) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
+BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 16) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (1 / 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 3984 >>
+stream
+q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
+q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
+BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 16) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 06  /  DESAFIO INTEGRADOR) Tj ET
+BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Sistema de gerenciamento de pedidos) Tj ET
+q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
+BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 623.89 Tm (CONCEITOS UTILIZADOS  /  CONTINUA\307\303O) Tj ET
+q 0.9 0.96 0.96 rg 54 581.89 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 588.89 Tm (04) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 588.89 Tm (Threads e sincroniza\347\343o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 554.89 Tm (A classe ProcessadorPedido herda de Thread, sobrescreve run\(\) e \351 iniciada com start\(\). Cada pedido) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 539.49 Tm (pendente \351 processado por uma thread diferente. Thread.sleep\(3000\) simula tr\352s segundos de trabalho.) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 524.09 Tm (Os m\351todos getStatus\(\) e setStatus\(\) de Pedido usam synchronized para permitir a leitura e altera\347\343o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 508.69 Tm (seguras do status durante a execu\347\343o concorrente.) Tj ET
+q 0.9 0.96 0.96 rg 54 468.29 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 475.29 Tm (05) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 475.29 Tm (Interface gr\341fica com Swing) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 441.29 Tm (A classe TelaPrincipal utiliza JOptionPane.showInputDialog\(\) e JOptionPane.showMessageDialog\(\), no) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.89 Tm (mesmo estilo da Tarefa 15 e do exemplo de calculadora do professor. O switch seleciona cada) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.49 Tm (funcionalidade do menu. A op\347\343o Listar pedidos e status mostra o andamento de todos os pedidos.) Tj ET
+q 0.9 0.96 0.96 rg 54 370.09 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 377.09 Tm (06) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 377.09 Tm (Funcionamento) Tj ET
+BT /F2 10.3 Tf 0.06 0.6 0.58 rg 1 0 0 1 57 343.09 Tm (1.) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 343.09 Tm (Cadastre pelo menos um cliente e um produto.) Tj ET
+BT /F2 10.3 Tf 0.06 0.6 0.58 rg 1 0 0 1 57 321.09 Tm (2.) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 321.09 Tm (Crie dois ou mais pedidos escolhendo os c\363digos e a quantidade.) Tj ET
+BT /F2 10.3 Tf 0.06 0.6 0.58 rg 1 0 0 1 57 299.09 Tm (3.) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 299.09 Tm (Consulte os pedidos: o status inicial ser\341 PENDENTE.) Tj ET
+BT /F2 10.3 Tf 0.06 0.6 0.58 rg 1 0 0 1 57 277.09 Tm (4.) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 277.09 Tm (Escolha Processar pedidos para iniciar simultaneamente uma thread para cada pedido) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 262.09 Tm (pendente.) Tj ET
+BT /F2 10.3 Tf 0.06 0.6 0.58 rg 1 0 0 1 57 240.09 Tm (5.) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 240.09 Tm (Consulte os pedidos logo ap\363s iniciar e novamente depois de alguns segundos para ver os) Tj ET
+BT /F1 10.4 Tf 0.34 0.4 0.47 rg 1 0 0 1 78 225.09 Tm (status EM_PROCESSAMENTO e CONCLUIDO.) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 196.09 Tm (Os cadastros ficam somente na mem\363ria e s\343o perdidos ao fechar o programa, pois o enunciado n\343o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 180.69 Tm (exige banco de dados ou armazenamento em arquivos.) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
+BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 16) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (2 / 2) Tj ET
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000415 00000 n 
+0000000574 00000 n 
+0000000726 00000 n 
+0000004348 00000 n 
+0000004501 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R /Info 6 0 R >>
+startxref
+8537
+%%EOF

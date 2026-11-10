@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Producer (Lista de POO) /Title (TAREFA 15 - Sistema de controle de estoque) /Author (Lucas Marques Almeida; Roberto Carlos Martins) >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3863 >>
+stream
+q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
+q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
+BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 15) Tj ET
+BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 05  /  JAVA SWING) Tj ET
+BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Sistema de controle de estoque) Tj ET
+q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
+BT /F2 8.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 621.89 Tm (AUTORES) Tj ET
+BT /F2 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 598.89 Tm (Lucas Marques Almeida  |  0024283) Tj ET
+BT /F1 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 579.89 Tm (Roberto Carlos Martins  |  0023293) Tj ET
+BT /F1 9.2 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 557.89 Tm (Programa\347\343o Orientada a Objetos  \225  Novembro de 2026) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 537.89 m 541.28 537.89 l S Q
+BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 506.89 Tm (CONCEITOS UTILIZADOS) Tj ET
+q 0.9 0.96 0.96 rg 54 467.89 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 474.89 Tm (01) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 474.89 Tm (Programa\347\343o orientada a objetos) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 440.89 Tm (A classe Produto armazena o c\363digo, a descri\347\343o, o pre\347o e a quantidade de um produto. O construtor) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.49 Tm (recebe esses dados, e os m\351todos getters permitem consult\341-los. calcularValorTotal\(\) multiplica pre\347o) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.09 Tm (por quantidade e exibirDados\(\) retorna as informa\347\365es do produto.) Tj ET
+q 0.9 0.96 0.96 rg 54 369.69 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 376.69 Tm (02) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 376.69 Tm (Interface gr\341fica com JOptionPane) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 342.69 Tm (A classe Main utiliza JOptionPane.showInputDialog\(\) para apresentar um menu e receber dados, e) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 327.29 Tm (JOptionPane.showMessageDialog\(\) para exibir resultados. Isso permite criar uma interface simples) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 311.89 Tm (sem montar uma janela com JFrame e bot\365es.) Tj ET
+q 0.9 0.96 0.96 rg 54 271.49 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 278.49 Tm (03) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 278.49 Tm (ArrayList, la\347os e switch) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 244.49 Tm (O ArrayList<Produto> guarda os produtos cadastrados durante a execu\347\343o. O while mant\351m o menu) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 229.09 Tm (dispon\355vel at\351 a op\347\343o Sair, o switch seleciona a funcionalidade e o for-each percorre a lista para) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 213.69 Tm (consultar, listar e somar valores.) Tj ET
+q 0.9 0.96 0.96 rg 54 173.29 28 21 re f Q
+BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 180.29 Tm (04) Tj ET
+BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 180.29 Tm (Valida\347\343o de dados) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 146.29 Tm (Os m\351todos Integer.parseInt\(\) e Double.parseDouble\(\) convertem textos para n\372meros. O bloco) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 130.89 Tm (try/catch trata valores digitados em formato inv\341lido. O programa tamb\351m verifica campos) Tj ET
+BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 115.49 Tm (obrigat\363rios, valores negativos e c\363digos repetidos.) Tj ET
+q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
+BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 15) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
+BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (1 / 1) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000409 00000 n 
+0000000563 00000 n 
+0000000715 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info 6 0 R >>
+startxref
+4629
+%%EOF
