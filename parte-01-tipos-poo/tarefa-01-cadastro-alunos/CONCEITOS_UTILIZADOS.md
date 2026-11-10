@@ -2,16 +2,16 @@
 
 ## Tipos de dados
 
-O programa utiliza os tipos `String` para nome e curso, `int` para idade, `double` para altura e nota final e `boolean` para indicar se o aluno está matriculado.
+O programa utiliza os tipos `String` para nome e curso, `int` para idade, `double` para altura, primeira nota e segunda nota, e `boolean` para indicar se o aluno está matriculado.
 
 ## Programação orientada a objetos e encapsulamento
 
-A classe `Aluno` reúne os atributos e os métodos relacionados ao aluno. Os atributos são declarados como `private`, e os métodos *getters* e *setters* permitem consultar e alterar seus valores. O construtor recebe os dados no momento da criação do objeto.
+A classe `Aluno` está organizada no pacote `model.entities`, com atributos `private`, construtor, *getters* e *setters*. A classe `Main` fica no pacote `application` e utiliza o objeto `Aluno`.
 
 ## Métodos e condição de aprovação
 
-O método `exibirDados()` apresenta as informações cadastradas. Já `verificarAprovacao()` retorna um valor `boolean` conforme a condição `notaFinal >= 6`. A classe `Main` utiliza `if/else` para mostrar se o aluno foi aprovado ou reprovado.
+O método `calcularMedia()` calcula a média aritmética das duas notas usando `(nota1 + nota2) / 2.0`. O método `exibirDados()` mostra os dados e a média. O método `verificarAprovacao()` retorna `true` se a média for maior ou igual a 6. A classe `Main` utiliza `if/else` para apresentar o resultado.
 
 ## Entrada e saída de dados
 
-A classe `Main` utiliza `Scanner` para receber as informações pelo teclado e `System.out.print` e `System.out.println` para exibir mensagens no terminal.
+A classe `Main` utiliza `Scanner` para receber as informações pelo teclado e `System.out.println()` para exibi-las no terminal. Para altura e notas, `Double.parseDouble()` permite digitar ponto ou vírgula como separador decimal.

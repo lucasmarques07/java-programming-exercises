@@ -21,7 +21,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 2230 >>
+<< /Length 2413 >>
 stream
 BT /F2 14.00 Tf 0 g 1 0 0 1 126.59 751.89 Tm (Conceitos utilizados \226 Tarefa 01: Cadastro de alunos) Tj ET
 BT /F1 11.00 Tf 0 g 1 0 0 1 214.62 717.89 Tm (Lucas Marques Almeida - 0024283) Tj ET
@@ -29,20 +29,22 @@ BT /F1 11.00 Tf 0 g 1 0 0 1 215.36 702.89 Tm (Roberto Carlos Martins - 0023293) 
 BT /F1 11.00 Tf 0 g 1 0 0 1 215.63 668.89 Tm (Programa\347\343o Orientada a Objetos) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 623.89 Tm (Tipos de dados) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 596.89 Tm (O programa utiliza os tipos String para nome e curso, int para idade, double) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 578.09 Tm (para altura e nota final e boolean para indicar se o aluno est\341 matriculado.) Tj ET
-BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 538.29 Tm (Programa\347\343o orientada a objetos e encapsulamento) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 511.29 Tm (A classe Aluno re\372ne os atributos e os m\351todos relacionados ao aluno. Os) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 492.49 Tm (atributos s\343o declarados como private, e os m\351todos getters e setters) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 473.69 Tm (permitem consultar e alterar seus valores. O construtor recebe os dados no) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 454.89 Tm (momento da cria\347\343o do objeto.) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 578.09 Tm (para altura, primeira nota e segunda nota, e boolean para indicar se o aluno) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 559.29 Tm (est\341 matriculado.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 519.49 Tm (Programa\347\343o orientada a objetos e encapsulamento) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 492.49 Tm (A classe Aluno est\341 organizada no pacote model.entities, com atributos private,) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 473.69 Tm (construtor, getters e setters. A classe Main fica no pacote application e utiliza) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 454.89 Tm (o objeto Aluno.) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 415.09 Tm (M\351todos e condi\347\343o de aprova\347\343o) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 388.09 Tm (O m\351todo exibirDados\(\) apresenta as informa\347\365es cadastradas. J\341) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 369.29 Tm (verificarAprovacao\(\) retorna um valor boolean conforme a condi\347\343o notaFinal) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 350.49 Tm (>= 6. A classe Main utiliza if/else para mostrar se o aluno foi aprovado ou) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 331.69 Tm (reprovado.) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 388.09 Tm (O m\351todo calcularMedia\(\) calcula a m\351dia aritm\351tica das duas notas usando) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 369.29 Tm (\(nota1 + nota2\) / 2.0. O m\351todo exibirDados\(\) mostra os dados e a m\351dia. O) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 350.49 Tm (m\351todo verificarAprovacao\(\) retorna true se a m\351dia for maior ou igual a 6. A) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 331.69 Tm (classe Main utiliza if/else para apresentar o resultado.) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 291.89 Tm (Entrada e sa\355da de dados) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 264.89 Tm (A classe Main utiliza Scanner para receber as informa\347\365es pelo teclado e) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 246.09 Tm (System.out.print e System.out.println para exibir mensagens no terminal.) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 246.09 Tm (System.out.println\(\) para exibi-las no terminal. Para altura e notas,) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 227.29 Tm (Double.parseDouble\(\) permite digitar ponto ou v\355rgula como separador) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 208.49 Tm (decimal.) Tj ET
 BT /F1 10.00 Tf 0 g 1 0 0 1 294.99 39.00 Tm (1) Tj ET
 endstream
 endobj
@@ -60,5 +62,5 @@ xref
 trailer
 << /Size 9 /Root 1 0 R /Info 5 0 R >>
 startxref
-2963
+3146
 %%EOF

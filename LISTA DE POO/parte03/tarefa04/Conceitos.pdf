@@ -21,7 +21,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 2360 >>
+<< /Length 2344 >>
 stream
 BT /F2 14.00 Tf 0 g 1 0 0 1 87.78 751.89 Tm (Conceitos utilizados \226 Tarefa 04: Calculadora com tratamento de) Tj ET
 BT /F2 14.00 Tf 0 g 1 0 0 1 267.68 731.89 Tm (exce\347\365es) Tj ET
@@ -29,22 +29,22 @@ BT /F1 11.00 Tf 0 g 1 0 0 1 214.62 697.89 Tm (Lucas Marques Almeida - 0024283) T
 BT /F1 11.00 Tf 0 g 1 0 0 1 215.36 682.89 Tm (Roberto Carlos Martins - 0023293) Tj ET
 BT /F1 11.00 Tf 0 g 1 0 0 1 215.63 648.89 Tm (Programa\347\343o Orientada a Objetos) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 603.89 Tm (Programa\347\343o orientada a objetos e encapsulamento) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 576.89 Tm (A classe Calculadora possui dois atributos privados do tipo double. O) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 558.09 Tm (construtor recebe os n\372meros, e os getters e setters permitem consultar e) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 539.29 Tm (alterar seus valores.) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 576.89 Tm (A classe Calculadora pertence ao pacote model.entities e possui dois atributos) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 558.09 Tm (privados do tipo double. O construtor recebe os n\372meros, e os getters e setters) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 539.29 Tm (permitem consultar e alterar seus valores.) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 499.49 Tm (M\351todos e condicionais) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 472.49 Tm (Os m\351todos somar\(\), subtrair\(\), multiplicar\(\) e dividir\(\) realizam as opera\347\365es.) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 453.69 Tm (Na classe Main, Scanner recebe os valores e uma estrutura if/else escolhe a) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 453.69 Tm (A classe Main, no pacote application, utiliza Scanner e if/else para escolher a) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 434.89 Tm (opera\347\343o.) Tj ET
 BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 395.09 Tm (Exce\347\343o personalizada) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 368.09 Tm (DomainException, localizada no pacote model.exceptions, herda de) Tj ET
 BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 349.29 Tm (RuntimeException e representa erros de dom\355nio, como divis\343o por zero e) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 330.49 Tm (opera\347\343o inexistente. A instru\347\343o throw lan\347a essa exce\347\343o e o bloco catch) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 311.69 Tm (exibe sua mensagem. InputMismatchException trata entradas num\351ricas) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 292.89 Tm (inv\341lidas.) Tj ET
-BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 253.09 Tm (try, catch e finally) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 226.09 Tm (O try cont\351m o processamento sujeito a erros, os blocos catch tratam as) Tj ET
-BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 207.29 Tm (exce\347\365es e o finally fecha o Scanner e informa o encerramento do programa.) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 330.49 Tm (opera\347\343o inexistente. A instru\347\343o throw lan\347a a exce\347\343o e o bloco catch exibe) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 311.69 Tm (sua mensagem.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 271.89 Tm (try, catch e finally) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 244.89 Tm (O try cont\351m o processamento sujeito a erros, os blocos catch tratam) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 226.09 Tm (DomainException e InputMismatchException, e o finally fecha o Scanner e) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 207.29 Tm (informa o encerramento.) Tj ET
 BT /F1 10.00 Tf 0 g 1 0 0 1 294.99 39.00 Tm (1) Tj ET
 endstream
 endobj
@@ -62,5 +62,5 @@ xref
 trailer
 << /Size 9 /Root 1 0 R /Info 5 0 R >>
 startxref
-3119
+3103
 %%EOF
