@@ -3,68 +3,51 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+<< /Type /Pages /Count 1 /Kids [7 0 R] >>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+<< /Producer (Academic PDF Layout) /Title (Conceitos utilizados \226 Tarefa 11: Controle de acesso a uma conta banc\341ria) >>
 endobj
 6 0 obj
-<< /Producer (Lista de POO) /Title (TAREFA 11 - Controle de acesso a uma conta banc\341ria) /Author (Lucas Marques Almeida; Roberto Carlos Martins) >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic /Encoding /WinAnsiEncoding >>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 3878 >>
+<< /Length 2675 >>
 stream
-q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
-q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
-BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
-BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 11) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 04  /  THREADS) Tj ET
-BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Controle de acesso a uma conta banc\341ria) Tj ET
-q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
-BT /F2 8.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 621.89 Tm (AUTORES) Tj ET
-BT /F2 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 598.89 Tm (Lucas Marques Almeida  |  0024283) Tj ET
-BT /F1 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 579.89 Tm (Roberto Carlos Martins  |  0023293) Tj ET
-BT /F1 9.2 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 557.89 Tm (Programa\347\343o Orientada a Objetos  \225  Novembro de 2026) Tj ET
-q 0.86 0.89 0.91 RG 1 w 54 537.89 m 541.28 537.89 l S Q
-BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 506.89 Tm (CONCEITOS UTILIZADOS) Tj ET
-q 0.9 0.96 0.96 rg 54 467.89 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 474.89 Tm (01) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 474.89 Tm (Programa\347\343o orientada a objetos) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 440.89 Tm (A classe ContaBancaria possui o atributo privado saldo, inicializado pelo construtor. O m\351todo getSaldo\(\)) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.49 Tm (consulta o valor dispon\355vel, enquanto sacar\(\) verifica se o valor solicitado \351 v\341lido e se h\341 saldo) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.09 Tm (suficiente antes de descont\341-lo.) Tj ET
-q 0.9 0.96 0.96 rg 54 369.69 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 376.69 Tm (02) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 376.69 Tm (Threads e execu\347\343o concorrente) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 342.69 Tm (A classe SaqueThread herda de Thread e sobrescreve o m\351todo run\(\) para tentar sacar R$ 700,00. Na) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 327.29 Tm (classe Main, duas threads recebem a mesma conta banc\341ria, que come\347a com R$ 1.000,00, e s\343o) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 311.89 Tm (iniciadas com start\(\).) Tj ET
-q 0.9 0.96 0.96 rg 54 271.49 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 278.49 Tm (03) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 278.49 Tm (Sincroniza\347\343o com synchronized) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 244.49 Tm (O m\351todo sacar\(\) \351 synchronized, de modo que apenas uma thread por vez pode executar a verifica\347\343o) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 229.09 Tm (e o desconto nessa conta. Sem esse controle, as duas threads poderiam verificar o mesmo saldo antes de) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 213.69 Tm (qualquer desconto e permitir saques incorretos. Com a sincroniza\347\343o, somente um dos saques de R$) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 198.29 Tm (700,00 \351 realizado.) Tj ET
-q 0.9 0.96 0.96 rg 54 157.89 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 164.89 Tm (04) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 164.89 Tm (Espera com join\(\)) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 130.89 Tm (O m\351todo join\(\) faz a execu\347\343o principal aguardar as duas threads terminarem antes de mostrar o saldo) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 115.49 Tm (final, que ser\341 de R$ 300,00. A ordem das mensagens das threads pode variar entre as execu\347\365es.) Tj ET
-q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
-BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 11) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (1 / 1) Tj ET
+BT /F2 14.00 Tf 0 g 1 0 0 1 86.27 751.89 Tm (Conceitos utilizados \226 Tarefa 11: Controle de acesso a uma conta) Tj ET
+BT /F2 14.00 Tf 0 g 1 0 0 1 269.39 731.89 Tm (banc\341ria) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 214.62 697.89 Tm (Lucas Marques Almeida - 0024283) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 215.36 682.89 Tm (Roberto Carlos Martins - 0023293) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 215.63 648.89 Tm (Programa\347\343o Orientada a Objetos) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 603.89 Tm (Programa\347\343o orientada a objetos) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 576.89 Tm (A classe ContaBancaria possui o atributo privado saldo, inicializado pelo) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 558.09 Tm (construtor. O m\351todo getSaldo\(\) consulta o valor dispon\355vel, enquanto sacar\(\)) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 539.29 Tm (verifica se o valor solicitado \351 v\341lido e se h\341 saldo suficiente antes de) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 520.49 Tm (descont\341-lo.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 480.69 Tm (Threads e execu\347\343o concorrente) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 453.69 Tm (A classe SaqueThread herda de Thread e sobrescreve o m\351todo run\(\) para) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 434.89 Tm (tentar sacar R$ 700,00. Na classe Main, duas threads recebem a mesma conta) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 416.09 Tm (banc\341ria, que come\347a com R$ 1.000,00, e s\343o iniciadas com start\(\).) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 376.29 Tm (Sincroniza\347\343o com synchronized) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 349.29 Tm (O m\351todo sacar\(\) \351 synchronized, de modo que apenas uma thread por vez) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 330.49 Tm (pode executar a verifica\347\343o e o desconto nessa conta. Sem esse controle, as) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 311.69 Tm (duas threads poderiam verificar o mesmo saldo antes de qualquer desconto e) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 292.89 Tm (permitir saques incorretos. Com a sincroniza\347\343o, somente um dos saques de) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 274.09 Tm (R$ 700,00 \351 realizado.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 234.29 Tm (Espera com join\(\)) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 207.29 Tm (O m\351todo join\(\) faz a execu\347\343o principal aguardar as duas threads terminarem) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 188.49 Tm (antes de mostrar o saldo final, que ser\341 de R$ 300,00. A ordem das) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 169.69 Tm (mensagens das threads pode variar entre as execu\347\365es.) Tj ET
+BT /F1 10.00 Tf 0 g 1 0 0 1 294.99 39.00 Tm (1) Tj ET
 endstream
 endobj
 xref
@@ -73,13 +56,13 @@ xref
 0000000009 00000 n 
 0000000058 00000 n 
 0000000115 00000 n 
-0000000212 00000 n 
-0000000314 00000 n 
-0000000409 00000 n 
-0000000575 00000 n 
-0000000727 00000 n 
+0000000214 00000 n 
+0000000312 00000 n 
+0000000454 00000 n 
+0000000554 00000 n 
+0000000706 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R /Info 6 0 R >>
+<< /Size 9 /Root 1 0 R /Info 5 0 R >>
 startxref
-4656
+3432
 %%EOF

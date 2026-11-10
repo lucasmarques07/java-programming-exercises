@@ -3,101 +3,69 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+<< /Type /Pages /Count 2 /Kids [7 0 R 9 0 R] >>
 endobj
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+<< /Producer (Academic PDF Layout) /Title (Conceitos utilizados \226 Tarefa 03: Enumera\347\365es em Java) >>
 endobj
 6 0 obj
-<< /Producer (Lista de POO) /Title (TAREFA 03 - Enumera\347\365es em Java) /Author (Lucas Marques Almeida; Roberto Carlos Martins) >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic /Encoding /WinAnsiEncoding >>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 6 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 3705 >>
+<< /Length 2931 >>
 stream
-q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
-q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
-BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
-BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 03) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 02  /  ENUMERA\307\325ES) Tj ET
-BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Enumera\347\365es em Java) Tj ET
-q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
-BT /F2 8.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 621.89 Tm (AUTORES) Tj ET
-BT /F2 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 598.89 Tm (Lucas Marques Almeida  |  0024283) Tj ET
-BT /F1 10.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 54 579.89 Tm (Roberto Carlos Martins  |  0023293) Tj ET
-BT /F1 9.2 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 557.89 Tm (Programa\347\343o Orientada a Objetos  \225  Novembro de 2026) Tj ET
-q 0.86 0.89 0.91 RG 1 w 54 537.89 m 541.28 537.89 l S Q
-BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 506.89 Tm (CONCEITOS UTILIZADOS) Tj ET
-q 0.9 0.96 0.96 rg 54 467.89 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 474.89 Tm (01) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 474.89 Tm (Conceito de enum) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 440.89 Tm (Em Java, enum \351 utilizado para declarar um conjunto fixo de constantes. Dessa forma, um atributo pode) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.49 Tm (receber apenas os valores definidos na enumera\347\343o, evitando o uso de textos livres para representar) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.09 Tm (categorias, estados ou n\355veis.) Tj ET
-q 0.9 0.96 0.96 rg 54 369.69 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 376.69 Tm (02) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 376.69 Tm (Exerc\355cio 1 \226 DiaSemana) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 342.69 Tm (O enum DiaSemana define os sete dias da semana. Na classe Main, uma vari\341vel do tipo DiaSemana) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 327.29 Tm (recebe a constante QUARTA e seu valor \351 exibido com System.out.println\(\).) Tj ET
-q 0.9 0.96 0.96 rg 54 286.89 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 293.89 Tm (03) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 293.89 Tm (Exerc\355cio 2 \226 CategoriaProduto) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 259.89 Tm (O enum CategoriaProduto define as categorias dispon\355veis. A classe Produto utiliza esse tipo no atributo) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 244.49 Tm (categoria, mostrando como uma enumera\347\343o pode fazer parte dos dados de um objeto. S\343o utilizados) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 229.09 Tm (construtor, atributos privados, getters, setters e o m\351todo exibirDados\(\).) Tj ET
-q 0.9 0.96 0.96 rg 54 188.69 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 195.69 Tm (04) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 195.69 Tm (Exerc\355cio 3 \226 StatusPedido) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 161.69 Tm (O enum StatusPedido representa as etapas poss\355veis de um pedido. A classe Pedido utiliza o status inicial) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 146.29 Tm (PENDENTE, e os m\351todos getStatus\(\) e setStatus\(\) permitem consultar e alterar seu valor. O Main) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 130.89 Tm (demonstra essas opera\347\365es.) Tj ET
-q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
-BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 03) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (1 / 2) Tj ET
+BT /F2 14.00 Tf 0 g 1 0 0 1 114.94 751.89 Tm (Conceitos utilizados \226 Tarefa 03: Enumera\347\365es em Java) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 214.62 717.89 Tm (Lucas Marques Almeida - 0024283) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 215.36 702.89 Tm (Roberto Carlos Martins - 0023293) Tj ET
+BT /F1 11.00 Tf 0 g 1 0 0 1 215.63 668.89 Tm (Programa\347\343o Orientada a Objetos) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 623.89 Tm (Conceito de enum) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 596.89 Tm (Em Java, enum \351 utilizado para declarar um conjunto fixo de constantes. Dessa) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 578.09 Tm (forma, um atributo pode receber apenas os valores definidos na enumera\347\343o,) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 559.29 Tm (evitando o uso de textos livres para representar categorias, estados ou n\355veis.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 519.49 Tm (Exerc\355cio 1 \226 DiaSemana) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 492.49 Tm (O enum DiaSemana define os sete dias da semana. Na classe Main, uma) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 473.69 Tm (vari\341vel do tipo DiaSemana recebe a constante QUARTA e seu valor \351 exibido) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 454.89 Tm (com System.out.println\(\).) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 415.09 Tm (Exerc\355cio 2 \226 CategoriaProduto) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 388.09 Tm (O enum CategoriaProduto define as categorias dispon\355veis. A classe Produto) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 369.29 Tm (utiliza esse tipo no atributo categoria, mostrando como uma enumera\347\343o pode) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 350.49 Tm (fazer parte dos dados de um objeto. S\343o utilizados construtor, atributos) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 331.69 Tm (privados, getters, setters e o m\351todo exibirDados\(\).) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 291.89 Tm (Exerc\355cio 3 \226 StatusPedido) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 264.89 Tm (O enum StatusPedido representa as etapas poss\355veis de um pedido. A classe) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 246.09 Tm (Pedido utiliza o status inicial PENDENTE, e os m\351todos getStatus\(\) e) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 227.29 Tm (setStatus\(\) permitem consultar e alterar seu valor. O Main demonstra essas) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 208.49 Tm (opera\347\365es.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 168.69 Tm (Exerc\355cio 4 \226 NivelAcesso) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 141.69 Tm (O enum NivelAcesso representa tr\352s perfis de usu\341rio. A classe Main utiliza) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 122.89 Tm (Scanner para ler um n\355vel, valueOf\(\) para convert\352-lo em uma constante do) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 104.09 Tm (enum e switch para apresentar permiss\365es de exemplo para cada perfil. Um) Tj ET
+BT /F1 10.00 Tf 0 g 1 0 0 1 294.99 39.00 Tm (1) Tj ET
 endstream
 endobj
 9 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 6 0 R >> >> /Contents 10 0 R >>
 endobj
 10 0 obj
-<< /Length 2354 >>
+<< /Length 866 >>
 stream
-q 0.08 0.14 0.25 rg 0 665.89 595.28 176 re f Q
-q 0.06 0.6 0.58 rg 0 665.89 9 176 re f Q
-BT /F2 11 Tf 1 1 1 rg 1 0 0 1 54 787.89 Tm (LISTA DE POO) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 187 787.89 Tm (RELAT\323RIO DE CONCEITOS) Tj ET
-BT /F2 9 Tf 1 1 1 rg 1 0 0 1 469.28 787.89 Tm (TAREFA 03) Tj ET
-BT /F1 9 Tf 1 1 1 rg 1 0 0 1 54 759.89 Tm (PARTE 02  /  ENUMERA\307\325ES) Tj ET
-BT /F2 20 Tf 1 1 1 rg 1 0 0 1 54 722.89 Tm (Enumera\347\365es em Java) Tj ET
-q 0.06 0.6 0.58 rg 54 660.89 75 4 re f Q
-BT /F2 9.5 Tf 0.06 0.6 0.58 rg 1 0 0 1 54 623.89 Tm (CONCEITOS UTILIZADOS  /  CONTINUA\307\303O) Tj ET
-q 0.9 0.96 0.96 rg 54 581.89 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 588.89 Tm (05) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 588.89 Tm (Exerc\355cio 4 \226 NivelAcesso) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 554.89 Tm (O enum NivelAcesso representa tr\352s perfis de usu\341rio. A classe Main utiliza Scanner para ler um n\355vel,) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 539.49 Tm (valueOf\(\) para convert\352-lo em uma constante do enum e switch para apresentar permiss\365es de exemplo) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 524.09 Tm (para cada perfil. Um try/catch trata a digita\347\343o de um n\355vel inexistente.) Tj ET
-q 0.9 0.96 0.96 rg 54 483.69 28 21 re f Q
-BT /F2 9 Tf 0.06 0.6 0.58 rg 1 0 0 1 61 490.69 Tm (06) Tj ET
-BT /F2 12.5 Tf 0.13 0.2 0.29 rg 1 0 0 1 94 490.69 Tm (Exerc\355cio 5 \226 Prioridade) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 456.69 Tm (O enum Prioridade define os n\355veis de urg\352ncia de um chamado. A classe Chamado armazena sua) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 441.29 Tm (descri\347\343o e prioridade, utilizando construtor, getters e setters. O m\351todo exibirMensagem\(\) emprega) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 425.89 Tm (switch para apresentar uma mensagem conforme o n\355vel selecionado. A classe Main recebe os dados) Tj ET
-BT /F1 10.35 Tf 0.34 0.4 0.47 rg 1 0 0 1 54 410.49 Tm (com Scanner e trata prioridades inv\341lidas.) Tj ET
-q 0.86 0.89 0.91 RG 1 w 54 54 m 541.28 54 l S Q
-BT /F2 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 54 37 Tm (LISTA DE POO  /  TAREFA 03) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 241 37 Tm (Conceitos utilizados) Tj ET
-BT /F1 8.3 Tf 0.47 0.53 0.59 rg 1 0 0 1 512.28 37 Tm (2 / 2) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 751.89 Tm (try/catch trata a digita\347\343o de um n\355vel inexistente.) Tj ET
+BT /F2 12.00 Tf 0 g 1 0 0 1 85.00 712.09 Tm (Exerc\355cio 5 \226 Prioridade) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 109.00 685.09 Tm (O enum Prioridade define os n\355veis de urg\352ncia de um chamado. A classe) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 666.29 Tm (Chamado armazena sua descri\347\343o e prioridade, utilizando construtor, getters e) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 647.49 Tm (setters. O m\351todo exibirMensagem\(\) emprega switch para apresentar uma) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 628.69 Tm (mensagem conforme o n\355vel selecionado. A classe Main recebe os dados com) Tj ET
+BT /F1 12.00 Tf 0 g 1 0 0 1 85.00 609.89 Tm (Scanner e trata prioridades inv\341lidas.) Tj ET
+BT /F1 10.00 Tf 0 g 1 0 0 1 294.99 39.00 Tm (2) Tj ET
 endstream
 endobj
 xref
@@ -106,15 +74,15 @@ xref
 0000000009 00000 n 
 0000000058 00000 n 
 0000000121 00000 n 
-0000000218 00000 n 
-0000000320 00000 n 
-0000000415 00000 n 
-0000000564 00000 n 
-0000000716 00000 n 
-0000004472 00000 n 
-0000004625 00000 n 
+0000000220 00000 n 
+0000000318 00000 n 
+0000000443 00000 n 
+0000000543 00000 n 
+0000000695 00000 n 
+0000003677 00000 n 
+0000003830 00000 n 
 trailer
-<< /Size 11 /Root 1 0 R /Info 6 0 R >>
+<< /Size 11 /Root 1 0 R /Info 5 0 R >>
 startxref
-7031
+4747
 %%EOF
